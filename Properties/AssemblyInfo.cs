@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Brickline Launcher")]
+[assembly: AssemblyTitle("Brickline Launcher V2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Brickline Launcher")]
+[assembly: AssemblyProduct("Brickline Launcher V2")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cb62f2ec-d072-4648-9654-3f71a9f067c5")]
+[assembly: Guid("473dc39d-c138-49da-999d-cd1c782710bc")]
 
 // Version information for an assembly consists of the following four values:
 //
